@@ -1,0 +1,43 @@
+body{
+    font-family: 'Maven Pro', sans-serif;
+    text-align: justify;
+}
+
+h1{
+    color: #8e518d;
+    text-align: center;
+}
+
+h2{
+    color: #c86fc9;
+    font-size: 22px;
+    text-align: center;
+}
+
+
+h3{
+    color: #c86fc9;
+}
+
+img{
+    width: 25%;
+    height: 25%;
+    border-radius: 8%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.c{
+    margin-top: 4%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#centralizado{
+    
+}
+
+.dif{
+    color: #8e518d;
+}
